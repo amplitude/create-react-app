@@ -1,6 +1,6 @@
 {
-  "name": "react-scripts",
-  "version": "2.1.4",
+  "name": "@amplitude/react-scripts",
+  "version": "2.1.4-amplitude.1",
   "description": "Configuration and scripts for Create React App.",
   "repository": "facebook/create-react-app",
   "license": "MIT",
